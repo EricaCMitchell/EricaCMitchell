@@ -1,16 +1,14 @@
-## Hi there 👋
+#### Interested in:
+- ⚛️ Electronic Structure Theory
+- 🖥️ High-Performance Computing
+- 🔎 Numerical Analysis
+- 🔀 Automatic Differentiation
 
-<!--
-**EricaCMitchell/EricaCMitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Projects:
+- [MPQC](https://github.com/ValeevGroup/mpqc)4 (private) - Massively Parallel Quantum Chemistry platform (v4) is a research package for ab initio simulation of the electronic structure of molecules and periodic solids.
+- [Quax](https://github.com/CCQC/Quax) - Arbitrary-order derivatives of popular electronic structure methods, such as Hartree-Fock and coupled cluster theory.
+- [Psi4](https://github.com/psi4/psi4) - Open-Source Quantum Chemistry – an electronic structure package in C++ driven by Python
 
-Here are some ideas to get you started:
+#### Contact:
+- 📧 <emitchell@vt.edu>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
